@@ -45,10 +45,7 @@ while (true)
 
         }
     }
-    else if (izbira == "Vizitka")
-    {
-        Console.WriteLine("Jan Robas, PRO1");
-    }
+    
     else if (izbira == izbiraIzhod)
     {
         return;
